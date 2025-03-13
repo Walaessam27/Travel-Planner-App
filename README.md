@@ -38,7 +38,7 @@ Users can enter a **destination** and **trip date**, and the app will fetch:
 ---
 
 ## 📂 Folder Structure  
-/travel-app
+/travel-planner-app
 
   ├── /dist              # Output folder for bundled files
   
